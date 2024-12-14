@@ -67,14 +67,16 @@ Benefits of this Solution:
 4.Faster Detection due to less Complexity(Effective Algorithms)
 
 MICROPHONE SIGNALS CAPTURED INITIALLY:
-![image](https://github.com/user-attachments/assets/18df5690-d50e-4f83-a70d-61e583d8a746)
+![Screenshot 2024-10-16 101349](https://github.com/user-attachments/assets/9df0fea3-47a1-418a-89ed-18c68af4ba78)
 
 BANDPASS FILTERING:
-![image](https://github.com/user-attachments/assets/b960d907-fbba-43ce-9aa3-59bf3cd9ff83)
+
+![Screenshot 2024-10-16 101513](https://github.com/user-attachments/assets/65355b0d-edc4-4e1a-9729-b4ba87260e9d)
 
 
 DIRECTION DETECIION THROUGH GRAPH:
 
+![Screenshot 2024-10-16 101546](https://github.com/user-attachments/assets/3a73cece-69e2-417f-8350-901e9b1fa862)
 
 
-![image](https://github.com/user-attachments/assets/ec6dcc6c-62cc-42ec-9c64-025aa1daf8db)
+
